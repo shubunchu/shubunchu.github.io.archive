@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hello!
 
 This is a demo of my GitHub website
