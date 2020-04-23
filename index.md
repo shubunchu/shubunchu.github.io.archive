@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello!
+# shubunchu
 
 This is a demo of my GitHub website
 
