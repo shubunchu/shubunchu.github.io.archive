@@ -16,7 +16,7 @@ Goodbye!
 
 - [http://helios.ite.gmu.edu/~ale24/](http://helios.ite.gmu.edu/~ale24/)
 
-## *Sealed Off (封鎖)* — Zhang Ailing
+## *Sealed Off (封鎖)* — Zhang Ailing (张爱玲)
 
 > The street erupted in noise, as two trucks full of soldiers rumbled by. Cuiyuan and Zongzhen stuck their heads out to see what was going on; to their surprise, their faces came very close together. At close range anyone’s face is somehow different, is tension-charged like a close-up on the movie screen. Zongzhen and Cuiyuan suddenly felt they were seeing each other for the first time. To his eyes, her face was the spare, simple peony of a watercolor sketch, and the stands of hair fluttering at her temples were pistils ruffled by a breeze.
 
