@@ -28,3 +28,4 @@ Zongzhen had never thought he could make a woman blush, make her smile, make her
 > Zongzhen was sure that Cuiyuan was a lovely woman – pale, wispy, warm, like the breath your mouth exhales in winter. You don’t want her, and she quietly drifts away. Being part of you, she understands everything, forgives everything. You tell the truth, and her heart aches for you; you tell a lie, and she smiles as if to say, “Go on with you – what are you saying?”
 
 ![Kind-hearted underclassman](assets/1.jpg)
+<img src="assets/1.jpg" width="50%" height="50%">
