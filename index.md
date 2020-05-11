@@ -10,10 +10,6 @@ I'm still learning...
 
 Goodbye!
 
-<center>
-<img src="assets/1.jpg" width="50%" height="50%">
-</center>
-
 ## Some other links
 
 - [http://mason.gmu.edu/~ale24/](http://mason.gmu.edu/~ale24/)
@@ -30,4 +26,3 @@ Zongzhen had never thought he could make a woman blush, make her smile, make her
 > They were in love. He told her all kinds of things: who was on his side at the bank and who secretly opposed him; how his family squabbled; his secret sorrows; his schoolboy dreams … unending talk, but she was not put off. Men in love have always liked to talk; women in love, on the other hand, don’t want to talk, because they know, without even knowing that they know, that once a man really understands a woman, he’ll stop loving her.
 
 > Zongzhen was sure that Cuiyuan was a lovely woman – pale, wispy, warm, like the breath your mouth exhales in winter. You don’t want her, and she quietly drifts away. Being part of you, she understands everything, forgives everything. You tell the truth, and her heart aches for you; you tell a lie, and she smiles as if to say, “Go on with you – what are you saying?”
-
